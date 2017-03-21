@@ -1,10 +1,3 @@
-/*
-
-
-上手く行かなかった
-http://stackoverflow.com/questions/26144212/libpqxx-how-to-reconnect-to-a-postgresql-database-after-connection-process-has
-*/
-
 
 #include "sys_postgres.h"
 #include "sys_log.h"
